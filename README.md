@@ -9,4 +9,4 @@ Since the idea is to get rid of firefox's tabs, you may also want to hide the ta
         visibility: collapse;
     }
 
-[Install (requires Firefox 57.0+)](releases)
+[Install (requires Firefox 57.0+)](https://github.com/adrusi/notable/releases/download/v1.1/notable-1.1-an+fx.xpi)
